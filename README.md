@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pietraseqqDev
+- 👀 I’m interested in programing and repair computers
+- 🌱 I’m currently learning more Python
+- 📫 How to reach me Discord: pietraseqq#0688
